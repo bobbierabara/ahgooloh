@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://daetietisi.manabase.info/sitemap.xml
